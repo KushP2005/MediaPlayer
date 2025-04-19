@@ -4,12 +4,12 @@ A lightweight media player built in C++ that supports **audio playback**, **ASCI
 
 ## ✨ Features
 
-- 🎧 **Audio Playback** – Play `.mp3`, `.wav`, or any supported audio file formats.
+- 🎧 **Audio Playback** – Play `.txt` text files in the command prompt.
 - 📼 **ASCII Video Playback** – Watch videos rendered as ASCII art in your terminal.
 - ➕ **Playlist Management** – Add, remove, and rearrange songs/videos in a playlist.
 - 🔁 **Playlist Playback** – Play through an entire playlist in sequence.
 - 🔀 **Mode Switching** – Easily toggle between audio-only and audio+ASCII-video modes.
-- 📂 **File Format Support** – Support for common audio/video formats using FFmpeg/other libraries.
+- 📂 **File Format Support** – ASCII art in `.txt` files
 
 ## 📷 ASCII Video Preview
 
