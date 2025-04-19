@@ -37,3 +37,15 @@ A lightweight media player built in C++ that supports **audio playback**, **ASCI
    bat    / |   |____)
           |_/
 ```
+
+## 🧠 Future Improvements
+Add GUI support with ImGui or Qt
+
+Add streaming support (e.g., from URLs)
+
+Lyrics or subtitle rendering in ASCII
+
+Support for shuffle and repeat modes
+
+## 📜 License
+This project is licensed under the MIT License.
