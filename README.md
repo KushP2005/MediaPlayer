@@ -13,6 +13,7 @@ A lightweight media player built in C++ that supports **audio playback**, **ASCI
 
 ## 📷 ASCII Video Preview
 
+```text
              .  .
              |\_|\
              | a_a\
@@ -35,3 +36,4 @@ A lightweight media player built in C++ that supports **audio playback**, **ASCI
      \ \| | /   | |__
    bat    / |   |____)
           |_/
+```
